@@ -122,3 +122,7 @@ Install with:
 ```bash
 pip install networkx pandas requests openpyxl
 ```
+Run cmd app
+```bash
+python ollama_retrieval_agent.py
+```
