@@ -120,7 +120,7 @@ To add drug/medication information:
 
 Install with:
 ```bash
-pip install networkx pandas requests openpyxl
+pip install networkx pandas requests openpyxl langchain langchain-community ollama
 ```
 Run cmd app
 ```bash
